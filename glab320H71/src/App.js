@@ -5,7 +5,7 @@ import Form from './Components/Form';
 import MovieDisplay from './Components/MovieDisplay';
 
 export default function App() {
-  const apiKey = "2b250105";
+  const apiKey = "98e3fb1f";
   
   const [movie, setMovie] = useState(null);
 
